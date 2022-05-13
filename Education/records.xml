@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Tony Stark</name>
+        <number>5533</number>
+        <midterm>55.0</midterm>
+        <final>60.0</final>
+    </student>
+    <student>
+        <name>Stephen Strange</name>
+        <number>4281</number>
+        <midterm>83.0</midterm>
+        <final>77.0</final>
+    </student>
+    <student>
+        <name>Wanda Maxima</name>
+        <number>762</number>
+        <midterm>70.0</midterm>
+        <final>45.0</final>
+    </student>
+</students>
